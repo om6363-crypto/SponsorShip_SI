@@ -41,9 +41,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 Fork the repository: git fork [https://github.com/om6363-crypto/Sponsors_SI.git](https://github.com/om6363-crypto/SponsorShip_SI)
 Make changes: git add and git commit your changes
 Create a pull request: git pull-request
-
-
-
-
-
-I want your help with uploading my project on my github Account. I have a Database Postgres SQL, Middleware as ASP.Net and the react as the frontend, I have already created Two folder named as backend and frontend along with the gitignore and README.md file I want you guide me with each and every push and pull request andI am using git bash for your refernce, please help me 
