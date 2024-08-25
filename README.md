@@ -31,14 +31,14 @@ The database is built using PostgreSQL, a powerful open-source relational databa
 Getting Started
 To get started with the project, follow these steps:
 
-Clone the repository: git clone https://github.com/om6363-crypto/Sponsors_SI.git
+Clone the repository: git clone [https://github.com/om6363-crypto/Sponsors_SI.git](https://github.com/om6363-crypto/SponsorShip_SI)
 Install dependencies: npm install (or yarn install)
 Start the backend: dotnet run (or npm start)
 Start the frontend: npm start (or yarn start)
 Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-Fork the repository: git fork https://github.com/om6363-crypto/Sponsors_SI.git
+Fork the repository: git fork [https://github.com/om6363-crypto/Sponsors_SI.git](https://github.com/om6363-crypto/SponsorShip_SI)
 Make changes: git add and git commit your changes
 Create a pull request: git pull-request
 
